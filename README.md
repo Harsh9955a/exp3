@@ -4,7 +4,7 @@
 
 * Name: Harsh Anand
 * Course: B.E. CSE (Cloud Computing)
-* Subject: Front-End Development
+* Subject: Full Stack 
 * University: Chandigarh University
 
 ---
